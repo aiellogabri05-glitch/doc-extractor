@@ -40,11 +40,13 @@ Il modello è `gpt-4o-mini` per default. Per cambiarlo imposta `OPENAI_MODEL`.
 
 Se la chiave manca, `--motore llm` si ferma con un messaggio che lo dice.
 
+Risultati del **lettore a regole** (`parser.py`). Il client OpenAI non è ancora stato valutato, perché la chiave API non è impostata.
+
 | Set | Documenti | Letti | Campi corretti |
 |---|---|---|---|
 | `samples/` | 12 (6 fatture, 6 packing list), generati dallo stesso formato del lettore | 12/12 | 126/126 (100%) |
 | `samples_hard/` | 8 fatture scritte a mano, layout diversi, lingue diverse | 0/8 | 0/77 (0%) |
 
-**Come leggere i numeri.** Il 100% su `samples/` dimostra che lo script di confronto funziona. Non misura la qualità dell'estrazione: formato di generazione e lettore coincidono. Lo 0% su `samples_hard/` è il risultato reale del lettore a regole, e non è stato corretto aggiungendo regole per quei layout.
+**Come leggere i numeri.** Il 100% su `samples/` dimostra che lo script di confronto funziona. Non misura la qualità dell'estrazione: formato di generazione e lettore coincidono. Lo 0% su `samples_hard/` riguarda solo il lettore a regole, che non è stato corretto aggiungendo regole per quei layout. Non dice nulla sul client OpenAI, che non è ancora stato eseguito.
 
 Un numero utile per un portfolio si ottiene solo con un estrattore basato su LLM, valutato su documenti che non abbiamo scritto noi.
