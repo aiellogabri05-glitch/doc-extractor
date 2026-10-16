@@ -1,0 +1,24 @@
+{
+  "tipo": "packing_list",
+  "numero": "PL-2024-003",
+  "data": "2024-05-27",
+  "fornitore": "Tessuti Verdi",
+  "righe": [
+    {
+      "descrizione": "Scatola cartone",
+      "quantita": 3,
+      "prezzo": null
+    },
+    {
+      "descrizione": "Dado M8",
+      "quantita": 43,
+      "prezzo": null
+    },
+    {
+      "descrizione": "Bullone M8",
+      "quantita": 15,
+      "prezzo": null
+    }
+  ],
+  "totale": 61
+}

@@ -1,0 +1,10 @@
+{
+  "tipo": "fattura",
+  "numero": "FE/2024/119",
+  "data": "2024-07-22",
+  "fornitore": "Studio Ferrari Consulting",
+  "righe": [
+    {"descrizione": "consulenza tecnica", "quantita": 4, "prezzo": 50.00}
+  ],
+  "totale": 244.00
+}

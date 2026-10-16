@@ -1,0 +1,7 @@
+Ricevuta fattura nr 2024/0031 del 28-02-2024
+Fornitore:  Officina Rossi & Figli
+Descrizione            Q.tà     Prezzo
+Filtro olio            4        12,30
+Pastiglie freno        2        38,75
+
+TOTALE: 126,70 €

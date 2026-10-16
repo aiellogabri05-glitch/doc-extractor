@@ -1,0 +1,19 @@
+{
+  "tipo": "packing_list",
+  "numero": "PL-2024-002",
+  "data": "2024-06-09",
+  "fornitore": "Nordvik Spa",
+  "righe": [
+    {
+      "descrizione": "Pannello LED",
+      "quantita": 7,
+      "prezzo": null
+    },
+    {
+      "descrizione": "Guarnizione",
+      "quantita": 6,
+      "prezzo": null
+    }
+  ],
+  "totale": 13
+}

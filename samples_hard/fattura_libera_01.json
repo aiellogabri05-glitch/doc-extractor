@@ -1,0 +1,11 @@
+{
+  "tipo": "fattura",
+  "numero": "88/2024",
+  "data": "2024-04-03",
+  "fornitore": "Ferramenta Bianchi S.n.c.",
+  "righe": [
+    {"descrizione": "vite M6", "quantita": 20, "prezzo": 0.15},
+    {"descrizione": "chiavi inglesi", "quantita": 5, "prezzo": 8.40}
+  ],
+  "totale": 45.00
+}

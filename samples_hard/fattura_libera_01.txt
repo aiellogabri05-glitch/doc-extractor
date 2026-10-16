@@ -1,0 +1,7 @@
+Spett.le Cliente,
+
+con la presente trasmettiamo la fattura n. 88/2024 emessa in data 3 aprile 2024 dalla ditta Ferramenta Bianchi S.n.c.
+Abbiamo fornito 20 pezzi di vite M6 a 0,15 euro cadauno e 5 chiavi inglesi a 8,40 euro cadauna.
+Importo complessivo da pagare: 45,00 euro.
+
+Cordiali saluti

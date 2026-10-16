@@ -1,0 +1,9 @@
+FATTURA
+Numero: FT-2024-004
+Data: 2024-05-03
+Fornitore: Nordvik Spa
+Righe:
+Descrizione | Quantita | Prezzo
+Cavo USB | 117 | 63.60
+Guarnizione | 94 | 16.35
+Totale: 8978.10

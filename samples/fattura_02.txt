@@ -1,0 +1,10 @@
+FATTURA
+Numero: FT-2024-002
+Data: 2024-09-07
+Fornitore: Tessuti Verdi
+Righe:
+Descrizione | Quantita | Prezzo
+Dado M8 | 72 | 80.95
+Cavo USB | 2 | 75.90
+Scatola cartone | 41 | 69.84
+Totale: 8843.64

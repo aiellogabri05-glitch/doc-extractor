@@ -1,0 +1,9 @@
+PACKING LIST
+Numero: PL-2024-001
+Data: 2024-01-01
+Fornitore: Acme Srl
+Righe:
+Descrizione | Quantita
+Dado M8 | 39
+Scatola cartone | 2
+Totale: 41

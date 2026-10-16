@@ -1,0 +1,19 @@
+{
+  "tipo": "packing_list",
+  "numero": "PL-2024-001",
+  "data": "2024-01-01",
+  "fornitore": "Acme Srl",
+  "righe": [
+    {
+      "descrizione": "Dado M8",
+      "quantita": 39,
+      "prezzo": null
+    },
+    {
+      "descrizione": "Scatola cartone",
+      "quantita": 2,
+      "prezzo": null
+    }
+  ],
+  "totale": 41
+}

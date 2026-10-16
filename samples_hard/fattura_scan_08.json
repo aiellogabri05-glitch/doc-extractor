@@ -1,0 +1,11 @@
+{
+  "tipo": "fattura",
+  "numero": "5520",
+  "data": "2024-10-09",
+  "fornitore": "Cartotecnica Lombarda",
+  "righe": [
+    {"descrizione": "scatole", "quantita": 40, "prezzo": 3.10},
+    {"descrizione": "etichette", "quantita": 500, "prezzo": 0.02}
+  ],
+  "totale": 134.00
+}

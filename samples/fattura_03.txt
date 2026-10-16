@@ -1,0 +1,10 @@
+FATTURA
+Numero: FT-2024-003
+Data: 2024-07-04
+Fornitore: Lumen Trading
+Righe:
+Descrizione | Quantita | Prezzo
+Scatola cartone | 187 | 45.99
+Guarnizione | 32 | 97.30
+Bullone M8 | 97 | 7.97
+Totale: 12486.82

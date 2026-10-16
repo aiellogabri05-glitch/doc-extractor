@@ -1,0 +1,10 @@
+INVOICE
+Invoice No.: NX-2024-0457
+Date: 15/03/2024
+From: Northwind Packaging Ltd
+
+Item                 Qty    Unit price
+Corrugated box       300    0.80
+Bubble wrap roll     12     6.50
+
+Amount due: GBP 318.00

@@ -1,0 +1,24 @@
+{
+  "tipo": "packing_list",
+  "numero": "PL-2024-004",
+  "data": "2024-06-07",
+  "fornitore": "Tessuti Verdi",
+  "righe": [
+    {
+      "descrizione": "Vite 4x20",
+      "quantita": 39,
+      "prezzo": null
+    },
+    {
+      "descrizione": "Pannello LED",
+      "quantita": 41,
+      "prezzo": null
+    },
+    {
+      "descrizione": "Bullone M8",
+      "quantita": 11,
+      "prezzo": null
+    }
+  ],
+  "totale": 91
+}

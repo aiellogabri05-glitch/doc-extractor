@@ -1,0 +1,19 @@
+{
+  "tipo": "fattura",
+  "numero": "FT-2024-005",
+  "data": "2024-09-24",
+  "fornitore": "Nordvik Spa",
+  "righe": [
+    {
+      "descrizione": "Cavo USB",
+      "quantita": 70,
+      "prezzo": 98.94
+    },
+    {
+      "descrizione": "Pannello LED",
+      "quantita": 164,
+      "prezzo": 68.84
+    }
+  ],
+  "totale": 18215.56
+}

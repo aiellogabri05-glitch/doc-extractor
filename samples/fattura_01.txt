@@ -1,0 +1,10 @@
+FATTURA
+Numero: FT-2024-001
+Data: 2024-11-04
+Fornitore: Acme Srl
+Righe:
+Descrizione | Quantita | Prezzo
+Dado M8 | 189 | 10.34
+Pannello LED | 190 | 89.22
+Vite 4x20 | 23 | 59.08
+Totale: 20264.90

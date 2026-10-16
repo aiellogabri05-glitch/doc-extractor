@@ -1,0 +1,11 @@
+{
+  "tipo": "fattura",
+  "numero": "2024/0031",
+  "data": "2024-02-28",
+  "fornitore": "Officina Rossi & Figli",
+  "righe": [
+    {"descrizione": "Filtro olio", "quantita": 4, "prezzo": 12.30},
+    {"descrizione": "Pastiglie freno", "quantita": 2, "prezzo": 38.75}
+  ],
+  "totale": 126.70
+}

@@ -1,0 +1,11 @@
+{
+  "tipo": "fattura",
+  "numero": "NX-2024-0457",
+  "data": "2024-03-15",
+  "fornitore": "Northwind Packaging Ltd",
+  "righe": [
+    {"descrizione": "Corrugated box", "quantita": 300, "prezzo": 0.80},
+    {"descrizione": "Bubble wrap roll", "quantita": 12, "prezzo": 6.50}
+  ],
+  "totale": 318.00
+}

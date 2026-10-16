@@ -1,0 +1,11 @@
+{
+  "tipo": "fattura",
+  "numero": "INV/77/24",
+  "data": "2024-03-05",
+  "fornitore": "Harbor Tools Inc.",
+  "righe": [
+    {"descrizione": "cordless drills", "quantita": 6, "prezzo": 89.99},
+    {"descrizione": "spare batteries", "quantita": 2, "prezzo": 24.50}
+  ],
+  "totale": 588.94
+}

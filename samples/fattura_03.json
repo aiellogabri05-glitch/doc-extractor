@@ -1,0 +1,24 @@
+{
+  "tipo": "fattura",
+  "numero": "FT-2024-003",
+  "data": "2024-07-04",
+  "fornitore": "Lumen Trading",
+  "righe": [
+    {
+      "descrizione": "Scatola cartone",
+      "quantita": 187,
+      "prezzo": 45.99
+    },
+    {
+      "descrizione": "Guarnizione",
+      "quantita": 32,
+      "prezzo": 97.3
+    },
+    {
+      "descrizione": "Bullone M8",
+      "quantita": 97,
+      "prezzo": 7.97
+    }
+  ],
+  "totale": 12486.82
+}

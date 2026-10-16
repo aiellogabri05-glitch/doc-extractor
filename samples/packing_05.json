@@ -1,0 +1,19 @@
+{
+  "tipo": "packing_list",
+  "numero": "PL-2024-005",
+  "data": "2024-04-22",
+  "fornitore": "Lumen Trading",
+  "righe": [
+    {
+      "descrizione": "Dado M8",
+      "quantita": 21,
+      "prezzo": null
+    },
+    {
+      "descrizione": "Bullone M8",
+      "quantita": 26,
+      "prezzo": null
+    }
+  ],
+  "totale": 47
+}

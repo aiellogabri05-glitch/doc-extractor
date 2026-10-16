@@ -1,0 +1,24 @@
+{
+  "tipo": "fattura",
+  "numero": "FT-2024-002",
+  "data": "2024-09-07",
+  "fornitore": "Tessuti Verdi",
+  "righe": [
+    {
+      "descrizione": "Dado M8",
+      "quantita": 72,
+      "prezzo": 80.95
+    },
+    {
+      "descrizione": "Cavo USB",
+      "quantita": 2,
+      "prezzo": 75.9
+    },
+    {
+      "descrizione": "Scatola cartone",
+      "quantita": 41,
+      "prezzo": 69.84
+    }
+  ],
+  "totale": 8843.64
+}

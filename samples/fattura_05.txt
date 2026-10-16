@@ -1,0 +1,9 @@
+FATTURA
+Numero: FT-2024-005
+Data: 2024-09-24
+Fornitore: Nordvik Spa
+Righe:
+Descrizione | Quantita | Prezzo
+Cavo USB | 70 | 98.94
+Pannello LED | 164 | 68.84
+Totale: 18215.56

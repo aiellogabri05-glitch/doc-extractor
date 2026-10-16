@@ -1,0 +1,10 @@
+PACKING LIST
+Numero: PL-2024-004
+Data: 2024-06-07
+Fornitore: Tessuti Verdi
+Righe:
+Descrizione | Quantita
+Vite 4x20 | 39
+Pannello LED | 41
+Bullone M8 | 11
+Totale: 91

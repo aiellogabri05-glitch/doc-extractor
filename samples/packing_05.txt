@@ -1,0 +1,9 @@
+PACKING LIST
+Numero: PL-2024-005
+Data: 2024-04-22
+Fornitore: Lumen Trading
+Righe:
+Descrizione | Quantita
+Dado M8 | 21
+Bullone M8 | 26
+Totale: 47

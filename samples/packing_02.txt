@@ -1,0 +1,9 @@
+PACKING LIST
+Numero: PL-2024-002
+Data: 2024-06-09
+Fornitore: Nordvik Spa
+Righe:
+Descrizione | Quantita
+Pannello LED | 7
+Guarnizione | 6
+Totale: 13

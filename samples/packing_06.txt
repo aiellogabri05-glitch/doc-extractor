@@ -1,0 +1,10 @@
+PACKING LIST
+Numero: PL-2024-006
+Data: 2024-12-18
+Fornitore: Bluewave Srl
+Righe:
+Descrizione | Quantita
+Vite 4x20 | 38
+Scatola cartone | 26
+Cavo USB | 24
+Totale: 88

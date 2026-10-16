@@ -1,0 +1,19 @@
+{
+  "tipo": "fattura",
+  "numero": "FT-2024-004",
+  "data": "2024-05-03",
+  "fornitore": "Nordvik Spa",
+  "righe": [
+    {
+      "descrizione": "Cavo USB",
+      "quantita": 117,
+      "prezzo": 63.6
+    },
+    {
+      "descrizione": "Guarnizione",
+      "quantita": 94,
+      "prezzo": 16.35
+    }
+  ],
+  "totale": 8978.1
+}

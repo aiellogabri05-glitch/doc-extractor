@@ -1,0 +1,24 @@
+{
+  "tipo": "fattura",
+  "numero": "FT-2024-006",
+  "data": "2024-05-03",
+  "fornitore": "Nordvik Spa",
+  "righe": [
+    {
+      "descrizione": "Dado M8",
+      "quantita": 102,
+      "prezzo": 88.47
+    },
+    {
+      "descrizione": "Vite 4x20",
+      "quantita": 165,
+      "prezzo": 45.93
+    },
+    {
+      "descrizione": "Cavo USB",
+      "quantita": 68,
+      "prezzo": 14.05
+    }
+  ],
+  "totale": 17557.79
+}

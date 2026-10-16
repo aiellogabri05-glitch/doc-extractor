@@ -1,0 +1,24 @@
+{
+  "tipo": "fattura",
+  "numero": "FT-2024-001",
+  "data": "2024-11-04",
+  "fornitore": "Acme Srl",
+  "righe": [
+    {
+      "descrizione": "Dado M8",
+      "quantita": 189,
+      "prezzo": 10.34
+    },
+    {
+      "descrizione": "Pannello LED",
+      "quantita": 190,
+      "prezzo": 89.22
+    },
+    {
+      "descrizione": "Vite 4x20",
+      "quantita": 23,
+      "prezzo": 59.08
+    }
+  ],
+  "totale": 20264.9
+}

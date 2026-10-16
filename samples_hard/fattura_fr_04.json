@@ -1,0 +1,11 @@
+{
+  "tipo": "fattura",
+  "numero": "F-0612",
+  "data": "2024-06-01",
+  "fornitore": "Laboratoires Duval SARL",
+  "righe": [
+    {"descrizione": "analyses", "quantita": 3, "prezzo": 45.50},
+    {"descrizione": "kits de prélèvement", "quantita": 2, "prezzo": 12.00}
+  ],
+  "totale": 160.50
+}

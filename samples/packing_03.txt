@@ -1,0 +1,10 @@
+PACKING LIST
+Numero: PL-2024-003
+Data: 2024-05-27
+Fornitore: Tessuti Verdi
+Righe:
+Descrizione | Quantita
+Scatola cartone | 3
+Dado M8 | 43
+Bullone M8 | 15
+Totale: 61

@@ -1,0 +1,24 @@
+{
+  "tipo": "packing_list",
+  "numero": "PL-2024-006",
+  "data": "2024-12-18",
+  "fornitore": "Bluewave Srl",
+  "righe": [
+    {
+      "descrizione": "Vite 4x20",
+      "quantita": 38,
+      "prezzo": null
+    },
+    {
+      "descrizione": "Scatola cartone",
+      "quantita": 26,
+      "prezzo": null
+    },
+    {
+      "descrizione": "Cavo USB",
+      "quantita": 24,
+      "prezzo": null
+    }
+  ],
+  "totale": 88
+}
